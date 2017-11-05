@@ -102,3 +102,116 @@ JavaScript error: https://www.compareremit.com/min/?g=home_js, line 19: TypeErro
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1509913249699	geckodriver	INFO	geckodriver 0.19.1
+1509913249799	geckodriver	INFO	Listening on 127.0.0.1:14106
+1509913252133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\keyul\\AppData\\Local\\Temp\\rust_mozprofile.HgEmxqDvnmVP"
+1509913291330	geckodriver	INFO	geckodriver 0.19.1
+1509913291346	geckodriver	INFO	Listening on 127.0.0.1:14194
+1509913293645	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\keyul\\AppData\\Local\\Temp\\rust_mozprofile.c5uUmeOIRDy2"
+1509913322616	geckodriver	INFO	geckodriver 0.19.1
+1509913322629	geckodriver	INFO	Listening on 127.0.0.1:14253
+1509913340950	geckodriver	INFO	geckodriver 0.19.1
+1509913340961	geckodriver	INFO	Listening on 127.0.0.1:14307
+1509913343069	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\keyul\\AppData\\Local\\Temp\\rust_mozprofile.sRyzQ2t5tXSc"
+1509913343585	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509913344123	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913344123	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913344124	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913345362	Marionette	INFO	Enabled via --marionette
+[Child 25996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509913349991	Marionette	INFO	Listening on port 14317
+1509913350568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509913350631	Marionette	DEBUG	Register listener.js for window 4294967297
+1509913350771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509913350969	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509913350969	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509913353818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+1509913355997	Marionette	DEBUG	Received DOM event "pageshow" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+[Child 16580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ce://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509913404416	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913404417	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913404419	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913405854	Marionette	INFO	Enabled via --marionette
+1509913410937	Marionette	INFO	Listening on port 14468
+1509913411008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509913411067	Marionette	DEBUG	Register listener.js for window 4294967297
+1509913411104	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509913411292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509913411293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509913415248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+1509913416109	Marionette	DEBUG	Received DOM event "pageshow" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+[Child 4344] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509913436642	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913436643	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913436644	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913438013	Marionette	INFO	Enabled via --marionette
+1509913451700	Marionette	INFO	Listening on port 14578
+1509913452516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509913452560	Marionette	DEBUG	Register listener.js for window 4294967297
+1509913452584	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509913452759	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509913452760	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509913454701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+1509913456164	Marionette	DEBUG	Received DOM event "pageshow" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+[Parent 8888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 516] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 516] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 25784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509913544903	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913544903	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913544904	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913546624	Marionette	INFO	Enabled via --marionette
+1509913549939	Marionette	INFO	Listening on port 14809
+1509913550057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509913550177	Marionette	DEBUG	Register listener.js for window 4294967297
+1509913550204	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509913550486	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509913550487	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509913552641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+1509913553606	Marionette	DEBUG	Received DOM event "pageshow" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+[Parent 8276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1808] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509913583504	geckodriver	INFO	geckodriver 0.19.1
+1509913583511	geckodriver	INFO	Listening on 127.0.0.1:14919
+1509913585801	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\keyul\\AppData\\Local\\Temp\\rust_mozprofile.maQDRSRzBkzL"
+1509913586565	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509913587178	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913587179	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913587179	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509913588084	Marionette	INFO	Enabled via --marionette
+[Child 20044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509913591575	Marionette	INFO	Listening on port 14927
+1509913592035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509913592125	Marionette	DEBUG	Register listener.js for window 4294967297
+1509913592162	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509913592467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509913592468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509913594049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+1509913594999	Marionette	DEBUG	Received DOM event "pageshow" for "http://embed.ly/code?url=https%3A%2F%2Fwww.producthunt.com%2Fupcoming%2Fdarian"
+1509914219064	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
+1509914219071	addons.xpi	WARN	Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is not correctly signed.
